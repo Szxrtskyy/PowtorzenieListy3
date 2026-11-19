@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">listaProdukty2</string>
+    <string-array name="kategorie">
+        <item>Nabiał</item>
+        <item>owoce</item>
+        <item>warzywa</item>
+        <item>pieczywo</item>
+        <item>mięso</item>
+        <item>napoje</item>
+    </string-array>
+</resources>
